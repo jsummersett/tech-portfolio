@@ -19,14 +19,10 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Computer Science Teaching Assistant at Vassar College
 
-## Recognition
+## Events
 
-- 2020 Awesome Woman in Technology Award
-
-## Social Media
-
-- Twitter
-- LinkedIn
-- GitHub
+- Virtual Grace Hopper Celebration for Women in Computing, September 2020
+- Vassar Virtual COVID-19 Datafest, May 2020
+- Hack(h)er 413 Hackathon, Febuary 2020
