@@ -3,12 +3,23 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+#### Analysis of NYS Occupations Affected by the COVID-19 Shutdown (Virtual COVID-19 Datafest, May 2020):
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+Top 4 Finalist for Best Analysis
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+
+This project was extremely rewarding and my first look into the realm of data science. 
+Using the US government’s Department of Labor’s “Characteristics of the Insured Unemployed” data, we performed basic difference-in-difference techniques on the top two
+occupations with the highest levels of insured unemployment, and the top two occupations with the lowest levels of insured unemployment, in April of 2020 in New York state. We used this technique to see whether the “treatment” of New York shutdown correlated with a deviation from the expected rate of change in unemployment trends of previous years. We found that for all occupations addressed, the rate of change in insured unemployment in the pre-treatment period (before March) did not significantly differ from the trend of previous years (2011-2019), whereas it differed in the post-treatment period (March-April). While no occupations appear to have escaped rising unemployment, some deviated more than others for than others from previous years post-treatment trends. Military specific and farming, fishing, and forestry occupations deviated less than food service and office and administrative support occupations.
+[Presentation](https://drive.google.com/file/d/1-xAki72HaxeXQ4UaaOhp_oLtNzvyoslr/view?usp=sharing) & [Kaggle + code](https://www.kaggle.com/annahennessy/nys-unemployment-insurance-analyzation)
+
+
+## In Progress:
+
+##### Developing an aggregator for a consolidation of VC West Coast wildfire mutual aid requests
+The project uses a Django framework, Bootstrap, and the database query language MySQL.
+
+##### Analyzing the data of ___ 
+
 
 ![Add alternate text for image](./assets/rosemary.png)
