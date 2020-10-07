@@ -13,15 +13,11 @@ Before I declared my major, I explored courses in the Geography, Theater, Religi
 I am drawn to a career in technology because I love the way it combines mathematical reasoning and programming to help people understand their world and educate those around them. I am passionate about the impact technology can have on accessibility and information, and strive to work for a company that values integrity, collaboration and passion like I do. This summer, I hope to secure an internship in which I’ll be challenged to grow and develop practical, technological resources for the public. 
 
 
-## Current Role
-
-Computer Science Teaching Assistant at Vassar College
-
 ## Leadership
 
-Computer Science Liaison - Gender Inclusivity in STME, August 2020 - Present
-House Treasurer - Vassar Residential Life, August 2019 - Present
-Host for Prospective Students - Vassar College Admissions, August 2019 - Present
+- Computer Science Liaison - Gender Inclusivity in STEM, August 2020 - Present
+- House Treasurer - Vassar Residential Life, August 2019 - Present
+- Host for Prospective Students - Vassar College Admissions, August 2019 - Present
 
 ## Events
 
