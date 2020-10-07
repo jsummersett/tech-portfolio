@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Josephine Summersett', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    tagline: 'Student at Vassar College | Computer Science Teaching Assistant | Aspiring technologist',
     profilePhoto: 'img/headshot.jpg',
     url: 'https://jsummersett.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
