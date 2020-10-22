@@ -15,5 +15,5 @@ Our [presentation](https://drive.google.com/file/d/1-xAki72HaxeXQ4UaaOhp_oLtNzvy
 
 ## In Progress:
 
-#### Developing an aggregator for a consolidation of VC West Coast wildfire mutual aid requests
-For this project, I'll be engineering a spreadsheet parser and utilizing a Django framework, Bootstrap, and the database query language MySQL.
+#### Developing an aggregator for a consolidation of California wildfire mutual-aid requests
+For this project, I'm engineering a spreadsheet parser that inserts data into MySQL schema and tables, as well as utilizing Django and Bootstrap to develop a simple website to display the requests.
