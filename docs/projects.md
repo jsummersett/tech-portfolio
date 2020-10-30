@@ -12,6 +12,10 @@ Using the US government’s Department of Labor’s “Characteristics of the In
 
 Our [presentation](https://drive.google.com/file/d/1-xAki72HaxeXQ4UaaOhp_oLtNzvyoslr/view?usp=sharing) and [code](https://www.kaggle.com/annahennessy/nys-unemployment-insurance-analyzation) can be found here!
 
+### Mapping California Homes for Wildfire Relief and the American Red Cross (Open Source Day - vGHC, September 2020):
+
+OpenStreeMaps is an open-source map utilized by the American Red Cross and other humanitarian relief organizations. I contributed by verifying 50 acres of the wildfire-endangered area of San Jose, CA and personally adding over 1,000 homes. The information we generated is used by firefighters to prioritize civilian homes, the American Red Cross to deliver aid to victims, and is even used to assess property loss and damage.
+
 
 ## In Progress:
 
