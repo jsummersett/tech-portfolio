@@ -21,6 +21,7 @@ I am drawn to a career in technology because I love the way it combines mathemat
 
 ## Events
 
+- NYU AI School (virtual), January 2021
 - Virtual Grace Hopper Celebration for Women in Computing, September 2020
 - Vassar Virtual COVID-19 Datafest, May 2020
 - Hack(h)er 413 Hackathon, February 2020
