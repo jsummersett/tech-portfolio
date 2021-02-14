@@ -12,7 +12,12 @@ Using the US government’s Department of Labor’s “Characteristics of the In
 
 Our [presentation](https://drive.google.com/file/d/1-xAki72HaxeXQ4UaaOhp_oLtNzvyoslr/view?usp=sharing) and [code](https://www.kaggle.com/annahennessy/nys-unemployment-insurance-analyzation) can be found here!
 
-### Mapping California Homes for Wildfire Relief and the American Red Cross (Open Source Day - vGHC, September 2020):
+### Developing a Website Portfolio for artist Julie Castrodale Miller <juliecastrodalemiller.com> (Jan. 2021):
+<juliecastrodalemiller.com>
+
+Developed a website for encaustic artist Julie Castrodale Miller based in Walla Walla, WA. I reached out to the client with a website proposal, as well as information regarding the cost and expense of upkeep (including domain names and hosting). I consulted the client about her needs and aesthetic, and continued to check-in after each major update. I utilized WordPress, HTML, and CSS to design the porfolio, gallery, and additional pages. I will be working with the artist to allow direct sales on the website later this year.
+
+### Map California Homes for Wildfire Relief and the American Red Cross (Open Source Day - vGHC, Sept. 2020):
 
 OpenStreeMaps is an open-source map utilized by the American Red Cross and other humanitarian relief organizations. I contributed by verifying 50 acres of the wildfire-endangered area of San Jose, CA and personally adding over 1,000 homes. The information we generated is used by firefighters to prioritize civilian homes, the American Red Cross to deliver aid to victims, and is even used to assess property loss and damage.
 
