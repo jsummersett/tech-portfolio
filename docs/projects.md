@@ -12,8 +12,8 @@ Using the US government’s Department of Labor’s “Characteristics of the In
 
 Our [presentation](https://drive.google.com/file/d/1-xAki72HaxeXQ4UaaOhp_oLtNzvyoslr/view?usp=sharing) and [code](https://www.kaggle.com/annahennessy/nys-unemployment-insurance-analyzation) can be found here!
 
-### Developing a Website Portfolio for artist Julie Castrodale Miller <juliecastrodalemiller.com> (Jan. 2021):
-<juliecastrodalemiller.com>
+### Developing a Website Portfolio for artist Julie Castrodale Miller (Jan. 2021):
+#### [juliecastrodalemiller.com](https://juliecastrodalemiller.com)
 
 Developed a website for encaustic artist Julie Castrodale Miller based in Walla Walla, WA. I reached out to the client with a website proposal, as well as information regarding the cost and expense of upkeep (including domain names and hosting). I consulted the client about her needs and aesthetic, and continued to check-in after each major update. I utilized WordPress, HTML, and CSS to design the porfolio, gallery, and additional pages. I will be working with the artist to allow direct sales on the website later this year.
 
