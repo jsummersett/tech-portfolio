@@ -24,5 +24,5 @@ OpenStreetMaps is an open-source map utilized by the American Red Cross and othe
 
 ## In Progress:
 
-#### Developing an aggregator for a consolidation of California wildfire mutual-aid requests
-For this project, I'm engineering a spreadsheet parser that inserts data into MySQL schema and tables, as well as utilizing Django and Bootstrap to develop a simple website to display the requests.
+#### Developing an Android app to make the Vassar dining experience more predictable
+I am developing in Linux and Android Studio while collaborating with a group of four and sharing resources via GitHub. We began by brainstorming features to include in the application, including a favorites filter, feedback section, and push notifications.
