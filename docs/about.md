@@ -11,7 +11,7 @@ Before I declared my major, I explored courses in the Geography, Theater, Religi
 ## What I’m Looking For
 
 I am drawn to a career in technology because I love the way it combines mathematical reasoning and programming to help people understand their world and educate those around them. I am passionate about the impact technology can have on accessibility and information, and strive to work for a company that values integrity, collaboration, and diverse backgrounds like I do. 
-[//]: # This summer, I hope to secure an internship in which I’ll be challenged to grow and develop practical, technological resources for the public. 
+[//]: <> This summer, I hope to secure an internship in which I’ll be challenged to grow and develop practical, technological resources for the public. 
 
 Summer 2021: I will be contribute remotely to IBM's Linux on Z project as a DevOps Systems Engineering Intern.
 
