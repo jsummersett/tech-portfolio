@@ -22,6 +22,7 @@ Summer 2021: I will be contributing remotely to IBM's Linux on Z project as a De
 
 ## Events
 
+- New York Celebration of Women in Computing, April 2021
 - NYU AI School (virtual), January 2021
 - Virtual Grace Hopper Celebration for Women in Computing, September 2020
 - Vassar Virtual COVID-19 Datafest, May 2020
