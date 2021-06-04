@@ -24,5 +24,7 @@ OpenStreetMaps is an open-source map utilized by the American Red Cross and othe
 
 ## In Progress:
 
-#### Developing an Android app to make the Vassar dining experience more predictable
+
+<!--- #### Developing an Android app to make the Vassar dining experience more predictable
 I am developing in Linux and Android Studio while collaborating with a group of four and sharing resources via GitHub. We began by brainstorming features to include in the application, including a favorites filter, feedback section, and push notifications.
+--->
