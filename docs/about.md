@@ -3,7 +3,7 @@ id: about
 title: About
 ---
 
-I am a junior at Vassar College, pursuing a B.A. in Computer Science and a minor in Mathematics. I currently work as a Teaching Assistant for a discrete mathematics computer science course at Vassar, while also serving as CS Liaison for Vassar's Gender Inclusivity in STEM and Treasurer of my residential dorm. My work experience includes advising a local finance firm on the implementation of cloud-based financial applications, as well as a plethora of positions in customer service. In my free time, I enjoy all things theatrical and musical, with a side of baking. 
+I am a rising senior at Vassar College, pursuing a B.A. in Computer Science. I currently work as a Teaching Assistant for a discrete mathematics computer science course at Vassar, while also serving as CS Liaison for Vassar's Gender Inclusivity in STEM and Secretary of the Computer Science Majors Committee. My work experience includes advising a local finance firm on the implementation of cloud-based financial applications, as well as a plethora of positions in customer service. In my free time, I enjoy all things theatrical and musical, with a side of baking. 
 
 Before I declared my major, I explored courses in the Geography, Theater, Religion, Music, Economics, and International Politics departments. These courses challenged my critical thinking, as well as broadened my compassion, communication, and writing skills. I discovered my passion in a Cognitive Science class after investigating Alan Turing's infamous creation, the Turing machine. From there, I explored my interest and developed skills through club projects, hackathons, datafests, and online courses.
 
@@ -16,9 +16,10 @@ Summer 2021: I will be contributing remotely to IBM's Linux on Z project as a De
 
 ## Leadership
 
+- Majors Committee Secretary - Computer Science Department, June 2021 - Present
 - Computer Science Liaison - Gender Inclusivity in STEM, August 2020 - Present
-- House Treasurer - Vassar Residential Life, August 2019 - Present
-- Host for Prospective Students - Vassar College Admissions, August 2019 - Present
+- House Treasurer - Vassar Residential Life, August 2019 - May 2021 (Received Treasurer of the Year Award)
+- Host for Prospective Students - Vassar College Admissions, August 2019 - May 2021
 
 ## Events
 
