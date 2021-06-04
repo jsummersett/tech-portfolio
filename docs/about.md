@@ -3,7 +3,7 @@ id: about
 title: About
 ---
 
-I am a rising senior at Vassar College, pursuing a B.A. in Computer Science. I currently work as a Teaching Assistant for a discrete mathematics computer science course at Vassar, while also serving as CS Liaison for Vassar's Gender Inclusivity in STEM and Secretary of the Computer Science Majors Committee. My work experience includes advising a local finance firm on the implementation of cloud-based financial applications, as well as a plethora of positions in customer service. In my free time, I enjoy all things theatrical and musical, with a side of baking. 
+I am a rising senior at Vassar College, pursuing a B.A. in Computer Science. I currently work as a Teaching Assistant for the computer science department at Vassar, while also serving as CS Liaison for Vassar's Gender Inclusivity in STEM and Secretary of the Computer Science Majors Committee. My work experience includes advising a local finance firm on the implementation of cloud-based financial applications, as well as a plethora of positions in customer service. In my free time, I enjoy all things theatrical and musical, with a side of baking. 
 
 Before I declared my major, I explored courses in the Geography, Theater, Religion, Music, Economics, and International Politics departments. These courses challenged my critical thinking, as well as broadened my compassion, communication, and writing skills. I discovered my passion in a Cognitive Science class after investigating Alan Turing's infamous creation, the Turing machine. From there, I explored my interest and developed skills through club projects, hackathons, datafests, and online courses.
 
