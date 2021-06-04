@@ -21,10 +21,9 @@ Developed a website for encaustic artist Julie Castrodale Miller based in Walla 
 
 OpenStreetMaps is an open-source map utilized by the American Red Cross and other humanitarian relief organizations. I contributed by verifying 50 acres of the wildfire-endangered area of San Jose, CA and personally adding over 1,000 homes. The information we generated is used by firefighters to prioritize civilian homes, the American Red Cross to deliver aid to victims, and is even used to assess property loss and damage.
 
-
+<!--- 
 ## In Progress:
 
-
-<!--- #### Developing an Android app to make the Vassar dining experience more predictable
+#### Developing an Android app to make the Vassar dining experience more predictable
 I am developing in Linux and Android Studio while collaborating with a group of four and sharing resources via GitHub. We began by brainstorming features to include in the application, including a favorites filter, feedback section, and push notifications.
 --->
